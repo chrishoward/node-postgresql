@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "message": "Love is around the corner.",
+    "luckyNumber": 12,
+    "spiritAnimal": "Dog"
+  },
+  {
+    "id": 2,
+    "message": "You will find a great treasure.",
+    "luckyNumber": 15,
+    "spiritAnimal": "Lion"
+  },
+  {
+    "id": 3,
+    "message": "Love will come soon",
+    "luckyNumber": 11,
+    "spiritAnimal": "Zebra"
+  },
+  {
+    "id": 4,
+    "message": "Success awaits you",
+    "luckyNumber": 15,
+    "spiritAnimal": "Giraffe"
+  },
+  {
+    "id": 5,
+    "message": "One person will give you great advice",
+    "luckyNumber": 30,
+    "spiritAnimal": "Bear"
+  }
+]
