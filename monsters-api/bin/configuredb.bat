@@ -1,3 +1,3 @@
 dropdb -U node_user monstersdb
 createdb -U node_user monstersdb
-psql node_user < C:\study\node-postgresql\monsters-api\bin\sql\monsters.sql
+psql -h localhost -p 5432 -U node_user -d "monstersdb" -f "./sql/monsters.sql"
