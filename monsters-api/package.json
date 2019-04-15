@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "configure": "cd bin/ && configuredb.bat && cd.."
+    "configure": "cd bin/ && configuredb.bat && cd..",
+    "start": "node ./bin/www",
+    "dev": "nodemon ./bin/www"
   },
   "keywords": [],
   "author": "",
